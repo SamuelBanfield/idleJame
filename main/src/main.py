@@ -1,5 +1,7 @@
+import Game
+
 def main():
-    print("Hello world")
+    Game.gameLoop()
 
 if __name__ == "__main__":
     main()
